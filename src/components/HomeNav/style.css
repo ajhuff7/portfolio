@@ -1,0 +1,28 @@
+.card1 {
+    margin-top: 10px;
+    height: 50px;
+    width: 25%;
+    margin-left: 65%;
+    margin-bottom: 0;
+    text-align: left;
+
+}
+.headerLink {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    color: rgba(255, 255, 255, 0.938);
+    display: inline;
+    text-decoration: none;
+}
+
+.headerLink:hover {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #ffffff;
+    -moz-box-shadow: 0px 0px 8px #ffffff;
+    -webkit-box-shadow: 0px 0px 8px #ffffff;
+}
+
+a {
+    text-decoration: none;
+}

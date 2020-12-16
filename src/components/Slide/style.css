@@ -1,0 +1,56 @@
+#proCard {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 0, 0.800);
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    box-shadow: 0px 0px 12px #87a7ff;
+    -moz-box-shadow: 0px 0px 12px #87a7ff;
+    -webkit-box-shadow: 0px 0px 12px #87a7ff;
+    
+
+
+}
+
+#proImg {
+    
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    box-shadow: 0px 0px 12px #87a7ff;
+    -moz-box-shadow: 0px 0px 12px #87a7ff;
+    -webkit-box-shadow: 0px 0px 12px #87a7ff;
+    
+}
+
+a 
+{
+    color: white;
+    
+}
+
+#description {
+    float: right;
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    font-size: 18pt;
+    color: white;
+    max-width: 20%;
+    min-width: 20%;
+    margin-top: 5%;
+    text-justify: inter-word;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.800);
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    box-shadow: 0px 0px 12px #87a7ff;
+    -moz-box-shadow: 0px 0px 12px #87a7ff;
+    -webkit-box-shadow: 0px 0px 12px #87a7ff;
+}
+
+#descriptionTitle {
+text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+
+#bioM {
+    height: 300px;
+    width: 650px;
+    max-height: 100%;
+    max-width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    opacity: .7;
+    padding: 10px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    box-shadow: 0px 0px 16px #0dd41ecc;
+    -moz-box-shadow: 0px 0px 16px #0dd41ecc;
+    -webkit-box-shadow: 0px 0px 16px #0dd41ecc;
+    background-color: #000000c0;
+}
+
+#bioText {
+    text-align: justify;
+    /* text-justify: auto; */
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+

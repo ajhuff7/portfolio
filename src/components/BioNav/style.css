@@ -1,0 +1,28 @@
+.card6 {
+    margin-top: 10px;
+    height: 50px;
+    width: 25%;
+    margin-left: 65%;
+    margin-bottom: 0;
+    text-align: left;
+
+}
+.bioLink {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    color: #04570be0;
+    display: inline;
+    text-decoration: none;
+}
+
+.bioLink:hover {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #0dd41ea4;
+    -moz-box-shadow: 0px 0px 8px #0dd41ea4;
+    -webkit-box-shadow: 0px 0px 8px #0dd41ea4;
+}
+
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,32 @@
+
+
+.port {
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    top: 0;    
+    left: 0;    
+    right: 0;   
+    bottom: 0;
+
+}
+
+.port2 {
+    text-align: center;
+    background-image: url("../../assets/beach.gif");
+    position: fixed;
+    max-height: 100%;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    top: 0;    
+    left: 0;    
+    right: 72%;   
+    bottom: 0;
+
+}
+

@@ -1,0 +1,30 @@
+.icon2 {
+    background-color: rgba(210, 210, 210, 0.021);
+    height: 120px;
+    width: 300px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    box-shadow: 0px 0px 8px #8f797241;
+    -moz-box-shadow: 0px 0px 8px #8e728f41;
+    -webkit-box-shadow: 0px 0px 8px #8e728f41;
+}
+
+.icon2:hover {
+    background-color: rgba(210, 210, 210, 0.192);
+    box-shadow: 0px 0px 8px #8e728fc7;
+    -moz-box-shadow: 0px 0px 8px #8e728fc7;
+    -webkit-box-shadow: 0px 0px 8px #8e728fc7;
+
+}
+
+#logo2 {
+    height: 120px;
+    width: 300px;
+    border-radius: 20px;
+    opacity: .2;
+    
+}
+

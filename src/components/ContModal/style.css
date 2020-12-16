@@ -1,0 +1,49 @@
+#contactM {
+    background-color: #c8dee33e;
+    height: 300px;
+    width: 650px;
+    max-height: 60%;
+    max-width: 40%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px 0px 10px 0px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    box-shadow: 0px 0px 16px #5da9d861;
+    -moz-box-shadow: 0px 0px 16px #5da9d861;
+    -webkit-box-shadow: 0px 0px 16px #5da9d861;
+}
+
+.contacthead {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    text-align: center;
+    color: #3c93c9bb;
+}
+
+.contacttext {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    text-align: center;
+    color: #3c93c9bb;
+}
+   
+.flow-text {
+    padding: 1%;
+}
+
+.fa {
+    font-size:48px;
+    color:#3c93c9bb;
+
+}
+
+.fa:hover {
+    opacity: .5;
+
+}
+
+hr {
+    width: 80%;
+    border: 1px solid #3c93c9bb;
+}

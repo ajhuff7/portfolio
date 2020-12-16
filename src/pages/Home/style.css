@@ -1,0 +1,29 @@
+.home {
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    top: 0;    
+    left: 0;    
+    right: 0;   
+    bottom: 0;
+
+}
+
+.home2 {
+    text-align: center;
+    background-image: url("../../assets/fog.gif");
+    position: fixed;
+    min-height: 50%;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    top: 300px;    
+    left: 0;    
+    right: 0;   
+    bottom: 0;
+
+}
