@@ -8,7 +8,7 @@ function HomeNav() {
 
 
         <div className="container">
-            <div className="card1">
+            <div className="card1"> &nbsp;&nbsp;
                 <Link to="/Portfolio">
                     <h2 class="headerLink">PORTFOLIO</h2>
                 </Link> &nbsp;&nbsp;
