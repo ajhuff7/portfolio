@@ -46,13 +46,15 @@ let slides = [
         key: 6,
         content: 'https://raw.githubusercontent.com/ajhuff7/portfolio/master/src/assets/Work2.png',
         link: 'https://ajhuff7.github.io/work-day-scheduler/',
-        name: 'WORK DAY SCHEDULER'
+        name: 'WORK DAY SCHEDULER',
+        description: 'Coming Soon!'
     },
     {
         key: 7,
         content: 'https://raw.githubusercontent.com/ajhuff7/portfolio/master/src/assets/onsite12.png',
         link: 'https://pacific-journey-56718.herokuapp.com/',
-        name: 'EMPLOYEE DIRECTORY'
+        name: 'EMPLOYEE DIRECTORY',
+        description: 'Coming Soon!'
     },
     {
         key: 8, 
